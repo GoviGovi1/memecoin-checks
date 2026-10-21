@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0d1117">
+<title>Memecoin Checks · Solana + BNB</title>
+<meta name="description" content="Fresh Solana and BNB Chain memecoins that passed a free rug-check filter, with the paper-trading result of each one.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <h1>Memecoin Checks</h1>
+  <p class="sub">Fresh <b>Solana</b> and <b>BNB Chain</b> tokens that passed every rug check, with how the paper trade went.</p>
+</header>
+
+<main>
+  <section class="warn" role="note">
+    <b>Not financial advice.</b> Many tokens that pass these checks still rug. The trades below are paper trades (no real money).
+  </section>
+
+  <section class="card record" id="record" aria-live="polite">
+    <div class="stat"><span class="n" id="r-wl">–</span><span class="l">Wins / losses</span></div>
+    <div class="stat"><span class="n" id="r-pnl">–</span><span class="l">Paper P&amp;L</span></div>
+    <div class="stat"><span class="n" id="r-open">–</span><span class="l">Open now</span></div>
+  </section>
+
+  <details class="card about">
+    <summary>What gets checked?</summary>
+    <ul id="rules">
+      <li><b>Liquidity</b> of at least $50,000 and <b>age</b> of at least 60 minutes.</li>
+      <li><b>LP locked</b> or burned: 90% or more, so the pool can't simply be pulled.</li>
+      <li><b>Top 10 holders</b> own 30% or less (pools and burn addresses not counted).</li>
+      <li><b>Solana</b> (Rugcheck): mint and freeze authority revoked, no insider wallets, low risk score, dev holds 5% or less.</li>
+      <li><b>BNB Chain</b> (GoPlus): not a honeypot, buy/sell tax 10% or less, not mintable, owner can't change balances, no hidden owner, open-source contract.</li>
+      <li>Paper trade: $25 per pass. Stop at −35%, sell ⅓ at +50% and ⅓ at +100%, trailing stop on the rest, out after 30 min with no progress.</li>
+    </ul>
+  </details>
+
+  <nav class="tabs" role="tablist">
+    <button class="tab on" data-f="all" role="tab">All</button>
+    <button class="tab" data-f="solana" role="tab">Solana</button>
+    <button class="tab" data-f="bsc" role="tab">BNB</button>
+  </nav>
+
+  <section id="list" class="list"><p class="muted">Loading…</p></section>
+  <p class="muted foot" id="updated"></p>
+</main>
+
+<div id="toast" class="toast" hidden>Copied</div>
+<script src="app.js"></script>
+</body>
+</html>

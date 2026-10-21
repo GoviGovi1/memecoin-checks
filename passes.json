@@ -1,0 +1,273 @@
+{
+ "record": {
+  "closed": 12,
+  "wins": 4,
+  "losses": 8,
+  "realized_usd": -50.72,
+  "open": 0,
+  "ticket_usd": 25
+ },
+ "rules": {
+  "min_liquidity_usd": 50000,
+  "min_age_min": 60,
+  "max_top10_pct": 30,
+  "min_lp_locked_pct": 90,
+  "max_tax_pct": 10
+ },
+ "passes": [
+  {
+   "symbol": "PHP2SHELL",
+   "chain": "solana",
+   "address": "D2LUVT4g1uRZX6mSTyeGgv9ipaXN5k7241yuPntGpump",
+   "ts": "2026-10-21T18:36:31+00:00",
+   "price": 0.0002948,
+   "liquidity_usd": 48212.95,
+   "age_min": 38.5468,
+   "lp_locked_pct": 100.0,
+   "top10_pct": 6.0108,
+   "dev_pct": 0.1818,
+   "dex_url": "https://dexscreener.com/solana/D2LUVT4g1uRZX6mSTyeGgv9ipaXN5k7241yuPntGpump",
+   "insiders": 0.0,
+   "risk_score": 1.0,
+   "paper": {
+    "status": "closed",
+    "pnl_usd": 26.36,
+    "pnl_pct": 105.4,
+    "exit": "trail"
+   }
+  },
+  {
+   "symbol": "JOCAT",
+   "chain": "solana",
+   "address": "2VhD6xfGpTr6KJUXAtdaZeKZpwuATdfTXDyFQZDcpump",
+   "ts": "2026-10-21T18:01:06+00:00",
+   "price": 0.0002666,
+   "liquidity_usd": 44944.18,
+   "age_min": 42.2288,
+   "lp_locked_pct": 100.0,
+   "top10_pct": 7.8018,
+   "dev_pct": 0.0,
+   "dex_url": "https://dexscreener.com/solana/2VhD6xfGpTr6KJUXAtdaZeKZpwuATdfTXDyFQZDcpump",
+   "insiders": 0.0,
+   "risk_score": 1.0,
+   "paper": {
+    "status": "closed",
+    "pnl_usd": -24.79,
+    "pnl_pct": -99.2,
+    "exit": "stop"
+   }
+  },
+  {
+   "symbol": "DOT",
+   "chain": "solana",
+   "address": "LUpgK4hZJbyDY1UyZPKZLbRKEqYTWVxxgHFNvoDpump",
+   "ts": "2026-10-21T14:33:10+00:00",
+   "price": 0.0003026,
+   "liquidity_usd": 47259.76,
+   "age_min": 3560.5879,
+   "lp_locked_pct": 100.0,
+   "top10_pct": 4.2069,
+   "dev_pct": 0.0,
+   "dex_url": "https://dexscreener.com/solana/LUpgK4hZJbyDY1UyZPKZLbRKEqYTWVxxgHFNvoDpump",
+   "insiders": 0.0,
+   "risk_score": 1.0,
+   "paper": {
+    "status": "closed",
+    "pnl_usd": -9.51,
+    "pnl_pct": -38.0,
+    "exit": "stop"
+   }
+  },
+  {
+   "symbol": "wifchi",
+   "chain": "solana",
+   "address": "8uWftzVoVBqyPJj6Xq9kRUtnz54W5GP4pd4smwZHpump",
+   "ts": "2026-10-21T14:33:09+00:00",
+   "price": 0.000281,
+   "liquidity_usd": 45522.25,
+   "age_min": 44.406,
+   "lp_locked_pct": 100.0,
+   "top10_pct": 1.8411,
+   "dev_pct": 0.0,
+   "dex_url": "https://dexscreener.com/solana/8uWftzVoVBqyPJj6Xq9kRUtnz54W5GP4pd4smwZHpump",
+   "insiders": 0.0,
+   "risk_score": 1.0,
+   "paper": {
+    "status": "closed",
+    "pnl_usd": -12.3,
+    "pnl_pct": -49.2,
+    "exit": "stop"
+   }
+  },
+  {
+   "symbol": "AOP",
+   "chain": "solana",
+   "address": "3LTox4ciobeuUivZRueYbyuXjeTga4CA1w8JjqhQpump",
+   "ts": "2026-10-21T14:08:22+00:00",
+   "price": 0.0002669,
+   "liquidity_usd": 42988.85,
+   "age_min": 1586.9406,
+   "lp_locked_pct": 100.0,
+   "top10_pct": 8.9795,
+   "dev_pct": 0.0,
+   "dex_url": "https://dexscreener.com/solana/3LTox4ciobeuUivZRueYbyuXjeTga4CA1w8JjqhQpump",
+   "insiders": 0.0,
+   "risk_score": 32.0,
+   "paper": {
+    "status": "closed",
+    "pnl_usd": 1.33,
+    "pnl_pct": 5.3,
+    "exit": "time_stop"
+   }
+  },
+  {
+   "symbol": "KIMCHIBOSS",
+   "chain": "solana",
+   "address": "AMuS3KCHeipZwTZmEFRuzW6Dr9YMYksWU8Rgboaupump",
+   "ts": "2026-10-21T00:34:23+00:00",
+   "price": 0.0004605,
+   "liquidity_usd": 58340.96,
+   "age_min": 31.3317,
+   "lp_locked_pct": 100.0,
+   "top10_pct": 6.6736,
+   "dev_pct": 0.1423,
+   "dex_url": "https://dexscreener.com/solana/AMuS3KCHeipZwTZmEFRuzW6Dr9YMYksWU8Rgboaupump",
+   "insiders": 0.0,
+   "risk_score": 1.0,
+   "paper": {
+    "status": "closed",
+    "pnl_usd": 21.22,
+    "pnl_pct": 84.9,
+    "exit": "trail"
+   }
+  },
+  {
+   "symbol": "Twyne",
+   "chain": "solana",
+   "address": "DZ4DzfLBMthSZ9SkLd8oAo4gmT4sm8BQSUpSJrbzpump",
+   "ts": "2026-10-20T03:33:12+00:00",
+   "price": 0.000138,
+   "liquidity_usd": 30365.45,
+   "age_min": 51.4945,
+   "lp_locked_pct": 100.0,
+   "top10_pct": 19.5199,
+   "dev_pct": 0.0,
+   "dex_url": "https://dexscreener.com/solana/DZ4DzfLBMthSZ9SkLd8oAo4gmT4sm8BQSUpSJrbzpump",
+   "insiders": 0.0,
+   "risk_score": 1.0,
+   "paper": {
+    "status": "closed",
+    "pnl_usd": -8.97,
+    "pnl_pct": -35.9,
+    "exit": "stop"
+   }
+  },
+  {
+   "symbol": "ChatGBT",
+   "chain": "solana",
+   "address": "2qv5gK41BZmFdrMv7P1ZZ5qwwCax5tnz58G7VFxfpump",
+   "ts": "2026-10-19T19:32:58+00:00",
+   "price": 0.0001486,
+   "liquidity_usd": 31918.23,
+   "age_min": 30.1728,
+   "lp_locked_pct": 100.0,
+   "top10_pct": 6.418,
+   "dev_pct": 0.0,
+   "dex_url": "https://dexscreener.com/solana/2qv5gK41BZmFdrMv7P1ZZ5qwwCax5tnz58G7VFxfpump",
+   "insiders": 0.0,
+   "risk_score": 1.0,
+   "paper": {
+    "status": "closed",
+    "pnl_usd": -24.63,
+    "pnl_pct": -98.5,
+    "exit": "stop"
+   }
+  },
+  {
+   "symbol": "WORTHLESS",
+   "chain": "solana",
+   "address": "Pw6rr8jEdq9Uump9xfx7UpiCdMmwNJp83YBbTu8pump",
+   "ts": "2026-10-19T19:03:34+00:00",
+   "price": 0.0003209,
+   "liquidity_usd": 48082.13,
+   "age_min": 40.8121,
+   "lp_locked_pct": 100.0,
+   "top10_pct": 2.2385,
+   "dev_pct": 0.0,
+   "dex_url": "https://dexscreener.com/solana/Pw6rr8jEdq9Uump9xfx7UpiCdMmwNJp83YBbTu8pump",
+   "insiders": 0.0,
+   "risk_score": 1.0,
+   "paper": {
+    "status": "closed",
+    "pnl_usd": -13.08,
+    "pnl_pct": -52.3,
+    "exit": "stop"
+   }
+  },
+  {
+   "symbol": "SNACKS",
+   "chain": "solana",
+   "address": "5rqqBQSsA5fo2znzmudV3vGD6uKfe7K7wafYS9N9pump",
+   "ts": "2026-10-19T18:37:17+00:00",
+   "price": 0.0002258,
+   "liquidity_usd": 40934.25,
+   "age_min": 48.5668,
+   "lp_locked_pct": 100.0,
+   "top10_pct": 14.9022,
+   "dev_pct": 0.0,
+   "dex_url": "https://dexscreener.com/solana/5rqqBQSsA5fo2znzmudV3vGD6uKfe7K7wafYS9N9pump",
+   "insiders": 0.0,
+   "risk_score": 1.0,
+   "paper": {
+    "status": "closed",
+    "pnl_usd": 10.26,
+    "pnl_pct": 41.1,
+    "exit": "trail"
+   }
+  },
+  {
+   "symbol": "DAC",
+   "chain": "solana",
+   "address": "Hh52rRAdRof5m2neKDXzEaJeVZQZLUm6q169mu1jdFGJ",
+   "ts": "2026-10-19T17:07:30+00:00",
+   "price": 0.0001258,
+   "liquidity_usd": 32844.05,
+   "age_min": 35.7065,
+   "lp_locked_pct": 99.4402,
+   "top10_pct": 22.1964,
+   "dev_pct": 0.0,
+   "dex_url": "https://dexscreener.com/solana/Hh52rRAdRof5m2neKDXzEaJeVZQZLUm6q169mu1jdFGJ",
+   "insiders": 0.0,
+   "risk_score": 1.0,
+   "paper": {
+    "status": "closed",
+    "pnl_usd": -15.15,
+    "pnl_pct": -60.6,
+    "exit": "stop"
+   }
+  },
+  {
+   "symbol": "AOP",
+   "chain": "solana",
+   "address": "2HJbU1XjTwCVjEwizXgzEtRPwqULs6G1iN3GZaGbpump",
+   "ts": "2026-10-19T14:32:00+00:00",
+   "price": 0.0002233,
+   "liquidity_usd": 38663.24,
+   "age_min": 1148.624,
+   "lp_locked_pct": 100.0,
+   "top10_pct": 28.3781,
+   "dev_pct": 0.0,
+   "dex_url": "https://dexscreener.com/solana/2HJbU1XjTwCVjEwizXgzEtRPwqULs6G1iN3GZaGbpump",
+   "insiders": 0.0,
+   "risk_score": 1.0,
+   "paper": {
+    "status": "closed",
+    "pnl_usd": -1.48,
+    "pnl_pct": -5.9,
+    "exit": "time_stop"
+   }
+  }
+ ],
+ "digest": "8f94805149ae45d4a05a1ce1d424d899397f8c5ede0db2d21e465052c3104967",
+ "generated": "2026-10-21T21:01:08+00:00"
+}
