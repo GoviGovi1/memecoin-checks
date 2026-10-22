@@ -31,8 +31,8 @@
    "risk_score": 1.0,
    "paper": {
     "status": "open",
-    "pnl_usd": 29.21,
-    "pnl_pct": 116.8,
+    "pnl_usd": 30.98,
+    "pnl_pct": 123.9,
     "rungs": [
      50,
      100
@@ -292,6 +292,6 @@
    }
   }
  ],
- "digest": "4e8872a93af3fffa6bf1a564ed0f60ebb004fece7488da0a265165a0535f3dbc",
- "generated": "2026-10-22T15:33:06+00:00"
+ "digest": "341428ef98922e36ce7d983325151a23df7003a7f04b04a25e6da28a736ca62e",
+ "generated": "2026-10-22T15:41:23+00:00"
 }
