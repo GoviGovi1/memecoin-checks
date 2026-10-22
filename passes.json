@@ -1,10 +1,10 @@
 {
  "record": {
-  "closed": 13,
+  "closed": 14,
   "wins": 5,
-  "losses": 8,
-  "realized_usd": -24.03,
-  "open": 1,
+  "losses": 9,
+  "realized_usd": -25.04,
+  "open": 0,
   "ticket_usd": 25
  },
  "rules": {
@@ -31,10 +31,10 @@
    "buy_tax": 0.0,
    "sell_tax": 0.0,
    "paper": {
-    "status": "open",
-    "pnl_usd": 0.72,
-    "pnl_pct": 2.9,
-    "rungs": []
+    "status": "closed",
+    "pnl_usd": -1.01,
+    "pnl_pct": -4.0,
+    "exit": "no_progress"
    }
   },
   {
@@ -311,6 +311,6 @@
    }
   }
  ],
- "digest": "951717e9fdb7003479010bf8c2845cb8d73109fcd2630f3e86917334515a9e73",
- "generated": "2026-10-22T19:16:57+00:00"
+ "digest": "40fe2edcbc1c163b5765f7a3d629132ed1c0665b15115e1f407d7775898ef47c",
+ "generated": "2026-10-22T19:22:35+00:00"
 }
