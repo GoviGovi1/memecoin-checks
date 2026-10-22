@@ -4,7 +4,7 @@
   "wins": 5,
   "losses": 8,
   "realized_usd": -24.03,
-  "open": 0,
+  "open": 1,
   "ticket_usd": 25
  },
  "rules": {
@@ -15,6 +15,28 @@
   "max_tax_pct": 10
  },
  "passes": [
+  {
+   "symbol": "GANG",
+   "chain": "bsc",
+   "address": "0xe0b5e9b42f35e03eb0b11fcce6c8a37e4d4e7777",
+   "ts": "2026-10-22T18:03:20+00:00",
+   "price": 0.0002803,
+   "liquidity_usd": 108937.96,
+   "age_min": 120.3958,
+   "lp_locked_pct": 100.0,
+   "top10_pct": 10.6437,
+   "dev_pct": 0.0,
+   "dex_url": "https://dexscreener.com/bsc/0xe0b5e9b42f35e03eb0b11fcce6c8a37e4d4e7777",
+   "honeypot": false,
+   "buy_tax": 0.0,
+   "sell_tax": 0.0,
+   "paper": {
+    "status": "open",
+    "pnl_usd": -0.0,
+    "pnl_pct": -0.0,
+    "rungs": []
+   }
+  },
   {
    "symbol": "SHAVCOIN",
    "chain": "solana",
@@ -289,6 +311,6 @@
    }
   }
  ],
- "digest": "5b286babd5f334ece5756d9054869d5283a2c8f92a5202f1cd1681a0ef81e5a7",
- "generated": "2026-10-22T17:07:55+00:00"
+ "digest": "fc1eba5090735281f6fbbecf4f30d2b58f1981c7d5eabc37b0c264d0b5f425b3",
+ "generated": "2026-10-22T18:03:21+00:00"
 }
