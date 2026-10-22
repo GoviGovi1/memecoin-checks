@@ -3,7 +3,7 @@
   "closed": 12,
   "wins": 4,
   "losses": 8,
-  "realized_usd": -45.79,
+  "realized_usd": -33.65,
   "open": 1,
   "ticket_usd": 25
  },
@@ -31,10 +31,11 @@
    "risk_score": 1.0,
    "paper": {
     "status": "open",
-    "pnl_usd": 15.39,
-    "pnl_pct": 61.6,
+    "pnl_usd": 29.21,
+    "pnl_pct": 116.8,
     "rungs": [
-     50
+     50,
+     100
     ]
    }
   },
@@ -291,6 +292,6 @@
    }
   }
  ],
- "digest": "f6bdbf08d3741e3727f7093e2273878b236acfe8838eca9d9c1dcc0ffaf46813",
- "generated": "2026-10-22T15:28:22+00:00"
+ "digest": "4e8872a93af3fffa6bf1a564ed0f60ebb004fece7488da0a265165a0535f3dbc",
+ "generated": "2026-10-22T15:33:06+00:00"
 }
