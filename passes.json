@@ -4,7 +4,7 @@
   "wins": 4,
   "losses": 8,
   "realized_usd": -50.72,
-  "open": 0,
+  "open": 1,
   "ticket_usd": 25
  },
  "rules": {
@@ -15,6 +15,27 @@
   "max_tax_pct": 10
  },
  "passes": [
+  {
+   "symbol": "SHAVCOIN",
+   "chain": "solana",
+   "address": "Baw61KXAJk4MMnNJPBa87S8F77oNhMy7gQ63S8SLpump",
+   "ts": "2026-10-22T15:09:41+00:00",
+   "price": 0.0004803,
+   "liquidity_usd": 59822.47,
+   "age_min": 211.0119,
+   "lp_locked_pct": 100.0,
+   "top10_pct": 2.7014,
+   "dev_pct": 0.0,
+   "dex_url": "https://dexscreener.com/solana/Baw61KXAJk4MMnNJPBa87S8F77oNhMy7gQ63S8SLpump",
+   "insiders": 0.0,
+   "risk_score": 1.0,
+   "paper": {
+    "status": "open",
+    "pnl_usd": 0.0,
+    "pnl_pct": 0.0,
+    "rungs": []
+   }
+  },
   {
    "symbol": "PHP2SHELL",
    "chain": "solana",
@@ -268,6 +289,6 @@
    }
   }
  ],
- "digest": "8f94805149ae45d4a05a1ce1d424d899397f8c5ede0db2d21e465052c3104967",
- "generated": "2026-10-21T21:01:08+00:00"
+ "digest": "ccc34c53cfdb3264821c217d38f87261c09d60b628f892dd35e47600531edb6d",
+ "generated": "2026-10-22T15:09:47+00:00"
 }
