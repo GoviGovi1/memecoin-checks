@@ -4,7 +4,7 @@
   "wins": 5,
   "losses": 9,
   "realized_usd": -25.04,
-  "open": 0,
+  "open": 1,
   "ticket_usd": 25
  },
  "rules": {
@@ -15,6 +15,27 @@
   "max_tax_pct": 10
  },
  "passes": [
+  {
+   "symbol": "BTC",
+   "chain": "solana",
+   "address": "HKh5uh37FyRhRbDPcmPCoTcfByRLdY65RFZj9AvZpump",
+   "ts": "2026-10-22T22:07:55+00:00",
+   "price": 0.0005322,
+   "liquidity_usd": 63520.79,
+   "age_min": 88.0367,
+   "lp_locked_pct": 100.0,
+   "top10_pct": 3.1085,
+   "dev_pct": 0.0,
+   "dex_url": "https://dexscreener.com/solana/HKh5uh37FyRhRbDPcmPCoTcfByRLdY65RFZj9AvZpump",
+   "insiders": 0.0,
+   "risk_score": 1.0,
+   "paper": {
+    "status": "open",
+    "pnl_usd": 0.0,
+    "pnl_pct": 0.0,
+    "rungs": []
+   }
+  },
   {
    "symbol": "GANG",
    "chain": "bsc",
@@ -311,6 +332,6 @@
    }
   }
  ],
- "digest": "40fe2edcbc1c163b5765f7a3d629132ed1c0665b15115e1f407d7775898ef47c",
- "generated": "2026-10-22T19:22:35+00:00"
+ "digest": "2f663ed6344bc597fa0256aa7516c2f3b40c26f4a581cced80efec52a750fe8c",
+ "generated": "2026-10-22T22:08:01+00:00"
 }
