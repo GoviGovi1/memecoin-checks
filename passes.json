@@ -4,7 +4,7 @@
   "wins": 5,
   "losses": 10,
   "realized_usd": -35.92,
-  "open": 0,
+  "open": 1,
   "ticket_usd": 25
  },
  "rules": {
@@ -15,6 +15,27 @@
   "max_tax_pct": 10
  },
  "passes": [
+  {
+   "symbol": "KIMCHINU",
+   "chain": "solana",
+   "address": "BbaZXnPRUWYfvuhNWwK25vzhWd5PRwDJ5N47nJtgpump",
+   "ts": "2026-10-23T00:35:34+00:00",
+   "price": 0.001182,
+   "liquidity_usd": 95271.06,
+   "age_min": 81.4157,
+   "lp_locked_pct": 100.0,
+   "top10_pct": 1.7774,
+   "dev_pct": 0.0,
+   "dex_url": "https://dexscreener.com/solana/BbaZXnPRUWYfvuhNWwK25vzhWd5PRwDJ5N47nJtgpump",
+   "insiders": 0.0,
+   "risk_score": 1.0,
+   "paper": {
+    "status": "open",
+    "pnl_usd": 0.0,
+    "pnl_pct": 0.0,
+    "rungs": []
+   }
+  },
   {
    "symbol": "BTC",
    "chain": "solana",
@@ -332,6 +353,6 @@
    }
   }
  ],
- "digest": "cb2d7c1f02636931f0752475c7e9efd83400944d1e559d3db44bbeed4ab94b8f",
- "generated": "2026-10-22T22:15:11+00:00"
+ "digest": "4e9fde6ff47c249d4112aec0edfd407076be3cbcfa84da42f7d047676f3f8dec",
+ "generated": "2026-10-23T00:35:38+00:00"
 }
