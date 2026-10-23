@@ -4,7 +4,7 @@
   "wins": 5,
   "losses": 12,
   "realized_usd": -50.86,
-  "open": 0,
+  "open": 1,
   "ticket_usd": 25
  },
  "rules": {
@@ -15,6 +15,27 @@
   "max_tax_pct": 10
  },
  "passes": [
+  {
+   "symbol": "McSauce",
+   "chain": "solana",
+   "address": "HYLhzvLHmC4gqckEyACvy2jDMoCizE2hS1qcJ1Q7pump",
+   "ts": "2026-10-23T16:03:42+00:00",
+   "price": 0.0004648,
+   "liquidity_usd": 60113.86,
+   "age_min": 76.2789,
+   "lp_locked_pct": 100.0,
+   "top10_pct": 1.6882,
+   "dev_pct": 0.0,
+   "dex_url": "https://dexscreener.com/solana/HYLhzvLHmC4gqckEyACvy2jDMoCizE2hS1qcJ1Q7pump",
+   "insiders": 0.0,
+   "risk_score": 1.0,
+   "paper": {
+    "status": "open",
+    "pnl_usd": 0.0,
+    "pnl_pct": 0.0,
+    "rungs": []
+   }
+  },
   {
    "symbol": "50000000",
    "chain": "bsc",
@@ -375,6 +396,6 @@
    }
   }
  ],
- "digest": "471c78204af952257749ccb86ac591ab4866fc7b5a490121930c8a781055895c",
- "generated": "2026-10-23T09:49:34+00:00"
+ "digest": "4da63494be2237df8811be792228e183bc9e7c254d3b9cc249c238ec64a4d970",
+ "generated": "2026-10-23T16:03:48+00:00"
 }
