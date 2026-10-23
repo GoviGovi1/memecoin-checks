@@ -4,7 +4,7 @@
   "wins": 5,
   "losses": 11,
   "realized_usd": -39.92,
-  "open": 0,
+  "open": 1,
   "ticket_usd": 25
  },
  "rules": {
@@ -15,6 +15,28 @@
   "max_tax_pct": 10
  },
  "passes": [
+  {
+   "symbol": "50000000",
+   "chain": "bsc",
+   "address": "0xd7aa9ed7a3b5b575743f8c3a628f050f2f2fc521",
+   "ts": "2026-10-23T09:07:43+00:00",
+   "price": 0.5768,
+   "liquidity_usd": 662035.32,
+   "age_min": 1312.2803,
+   "lp_locked_pct": 96.4572,
+   "top10_pct": 2.1646,
+   "dev_pct": 0.0,
+   "dex_url": "https://dexscreener.com/bsc/0xd7aa9ed7a3b5b575743f8c3a628f050f2f2fc521",
+   "honeypot": false,
+   "buy_tax": 4.0,
+   "sell_tax": 4.38,
+   "paper": {
+    "status": "open",
+    "pnl_usd": 0.0,
+    "pnl_pct": 0.0,
+    "rungs": []
+   }
+  },
   {
    "symbol": "KIMCHINU",
    "chain": "solana",
@@ -353,6 +375,6 @@
    }
   }
  ],
- "digest": "438c6261a42fe71bc9517c70910110650810190753dcedd07ae68d74cd302ae9",
- "generated": "2026-10-23T01:18:08+00:00"
+ "digest": "13c97e81a267828a81e21e4e63eddc04dfda9fb7986c2f196f49ed51d56d2761",
+ "generated": "2026-10-23T09:07:43+00:00"
 }
