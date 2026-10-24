@@ -4,7 +4,7 @@
   "wins": 5,
   "losses": 14,
   "realized_usd": -78.58,
-  "open": 1,
+  "open": 2,
   "ticket_usd": 25
  },
  "rules": {
@@ -15,6 +15,27 @@
   "max_tax_pct": 10
  },
  "passes": [
+  {
+   "symbol": "GSIR",
+   "chain": "solana",
+   "address": "GoLpdpR9X66mC8m2hYYHsuMDs5trNNVv9ze21gzXpump",
+   "ts": "2026-10-24T06:37:38+00:00",
+   "price": 0.0009902,
+   "liquidity_usd": 85335.25,
+   "age_min": 66.8567,
+   "lp_locked_pct": 100.0,
+   "top10_pct": 11.9343,
+   "dev_pct": 0.0,
+   "dex_url": "https://dexscreener.com/solana/GoLpdpR9X66mC8m2hYYHsuMDs5trNNVv9ze21gzXpump",
+   "insiders": 0.0,
+   "risk_score": 1.0,
+   "paper": {
+    "status": "open",
+    "pnl_usd": 0.0,
+    "pnl_pct": 0.0,
+    "rungs": []
+   }
+  },
   {
    "symbol": "TRUMP",
    "chain": "solana",
@@ -441,6 +462,6 @@
    }
   }
  ],
- "digest": "42bcff8046b078677090a9135346577a815f4d74aeecca5301734048111ee422",
- "generated": "2026-10-24T06:33:39+00:00"
+ "digest": "6cc5647955cd79d352414a49a1bd1651f587ddfaa90f29d58903d1766128323c",
+ "generated": "2026-10-24T06:37:43+00:00"
 }
