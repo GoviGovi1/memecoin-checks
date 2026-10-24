@@ -32,8 +32,8 @@
    "sell_tax": 0.0,
    "paper": {
     "status": "open",
-    "pnl_usd": 1.04,
-    "pnl_pct": 4.1,
+    "pnl_usd": 1.42,
+    "pnl_pct": 5.7,
     "rungs": []
    }
   },
@@ -418,6 +418,6 @@
    }
   }
  ],
- "digest": "bce2aa8fcfc30bc9cda0d0f6aed8d1ad12d6ae0fc9889cc1a7fcf9185ba2b3fc",
- "generated": "2026-10-24T02:19:18+00:00"
+ "digest": "48f3fce14ecbbcbe00ad5369dfa4f6cb7446197711e466b0d61981b42e35616a",
+ "generated": "2026-10-24T02:22:44+00:00"
 }
