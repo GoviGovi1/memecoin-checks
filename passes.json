@@ -4,7 +4,7 @@
   "wins": 5,
   "losses": 13,
   "realized_usd": -59.64,
-  "open": 1,
+  "open": 2,
   "ticket_usd": 25
  },
  "rules": {
@@ -15,6 +15,27 @@
   "max_tax_pct": 10
  },
  "passes": [
+  {
+   "symbol": "TRUMP",
+   "chain": "solana",
+   "address": "3YYqFkPaob7SzUCyk59DGVhPZK1LN9odKMJc1uy3pump",
+   "ts": "2026-10-24T04:00:35+00:00",
+   "price": 0.001147,
+   "liquidity_usd": 92990.1,
+   "age_min": 67.7509,
+   "lp_locked_pct": 100.0,
+   "top10_pct": 1.3464,
+   "dev_pct": 0.0,
+   "dex_url": "https://dexscreener.com/solana/3YYqFkPaob7SzUCyk59DGVhPZK1LN9odKMJc1uy3pump",
+   "insiders": 0.0,
+   "risk_score": 1.0,
+   "paper": {
+    "status": "open",
+    "pnl_usd": 0.0,
+    "pnl_pct": 0.0,
+    "rungs": []
+   }
+  },
   {
    "symbol": "\u5bcc\u9014\u725b\u725b&\u5e01\u5b89",
    "chain": "bsc",
@@ -420,6 +441,6 @@
    }
   }
  ],
- "digest": "919974d88fe9c94761de1bde97085f3bae80421a185dbff03c2871b15809bab8",
- "generated": "2026-10-24T03:57:05+00:00"
+ "digest": "c27990b2f8fd848251608c913b6d7d77f9865d3c0c385c260ad334a884992b17",
+ "generated": "2026-10-24T04:00:44+00:00"
 }
